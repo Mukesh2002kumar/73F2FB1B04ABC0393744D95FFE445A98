@@ -7,6 +7,6 @@
 # Facebook Business page and one social media post for your brand
 - https://www.facebook.com/profile.php?id=61552838851072&mibextid=ZbWKwL
 # Social media advertisement poster using canva
-- https://m.facebook.com/story.php?story_fbid=pfbid0a64pKEK46h78gSAwewG9HSWiDMxaqaCKv1bYAMytGxB8iiCyx63mhYK3fLbX45usl&id=61552838851072&mibextid=Nif5oz
+- https://m.facebook.com/story.php?story_fbid=pfbid0a64pKEK46h78gSAwewG9HSWiDMxaqaCKv1bYAMytGxB8iiCyx63mhYK3fLbX45usl&id=61552838851072&mibextid=ZbWKwL
 # Email News letter using canva 
 - https://monkey437.blogspot.com/2023/09/email-news-letter-anime.html
